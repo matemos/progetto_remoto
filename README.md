@@ -1,2 +1,2 @@
 # progetto_remoto
-mattia bellucci mortob (questo è il primo progetto sotto controllo di versione del 3I1)
+mattia bellucci morto (questo è il primo progetto sotto controllo di versione del 3I1)
